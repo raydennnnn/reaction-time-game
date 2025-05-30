@@ -32,6 +32,10 @@ This is a simple yet engaging reaction time tester game built using **Pygame** a
 - Python 3.x
 - Pygame library
 
+## Contributors 
+1. Aditya Kumar Singh
+2. Mallidi V S Shankar Reddy 
+
 You can install Pygame via pip if you haven't already:
 
 ```bash
